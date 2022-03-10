@@ -1,0 +1,53 @@
+.layer1{
+
+height: 50%;
+width: 100%;
+background-color: green;
+position: absolute;
+
+}
+
+
+
+img{
+
+width: 200px;
+height: 200px;
+margin-top: 200px;
+position: relative;
+align: left;
+
+position: absolute;
+
+
+
+}
+
+h1{
+margin-left: 200px;
+width: 400px;
+position: fixed;
+
+margin-top: 200px;
+height: 200px;
+background-color: white;
+text-align: center;
+
+}
+
+.profile_box{
+
+margin-left: 30%;
+margin-right: 50%;
+width:100%;
+
+
+}
+
+body{
+
+background-color: #EBEBEB;
+
+
+}
+
